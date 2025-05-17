@@ -52,7 +52,7 @@ const Login = ({ url, setShowLogin }) => {
           For user's login page please
           <span>
             {" "}
-            <a href="https://manoj-food-app-frontend.onrender.com">
+            <a href="https://neethu-food-app-frontend.onrender.com">
               Click here
             </a>
           </span>
