@@ -17,7 +17,7 @@ const Login = ({ url, setShowLogin }) => {
     setData({ ...data, [name]: value });
   };
   const logggedIn = () => {
-    if (data.email === "manojfoodapp@gmail.com" && data.password === "rareoneapp") {
+    if (data.email === "neethufoodapp@gmail.com" && data.password === "rareoneapp") {
       setShowLogin(true);
       navigate("/orders");
       toast.success("Welcome Back BOSS");
