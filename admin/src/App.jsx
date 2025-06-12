@@ -18,7 +18,7 @@ const App = () => {
 
 
   
-  const url = "https://manoj-food-app-backend.onrender.com";
+  const url = "https://neethumohan-food-order-app-backend.onrender.com";
   // const url = "http://localhost:5000"
   
   return (<>
